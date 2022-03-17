@@ -159,7 +159,7 @@ body{
 .first-paragraph{
     width: 100%;
     height: 60vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("./Img/beach.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../Img/beach.jpg");
     background-position: center;
     background-size: cover;
     color: white;
@@ -276,7 +276,7 @@ body{
 }
 
 .sales-team{
-    background-image: url("./Img/sales-team.jpg");
+    background-image: url("../Img/sales-team.jpg");
     background-size: cover;
     background-position: center;
     height: 350px;
